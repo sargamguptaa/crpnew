@@ -214,3 +214,25 @@ footer p {
     padding: 18px;
     margin: 0;
 }
+
+/*Media Queries*/
+
+@media only screen and  (max-width:768px){
+    .about .right {
+        padding-left: 0px !important;
+    }
+    .parallax-container {
+        position: relative;
+        overflow: hidden;
+        height: 300px;
+    }
+    .features h4.center {
+        max-width: 90%;
+    }
+    banner-area h1 {
+        font-size: 32px;
+    }
+    .search h2 {
+        font-size: 20px;
+    }
+}
