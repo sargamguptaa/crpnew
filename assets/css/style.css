@@ -301,3 +301,9 @@ footer p {
     text-align: center;
     font-size: 36px;
 }
+.price .collection {
+    border:none;
+}
+.price .collection .collection-item {
+    border-bottom: 1px solid #f3f3f3;
+}
