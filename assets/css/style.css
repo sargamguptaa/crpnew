@@ -125,7 +125,7 @@ nav .nav-wrapper i{
 
 .newsletter {
     min-height: 100px;
-    background: url('../img/news-bg.jpg');
+    background: #00313f;
     background-size:100% 100%;
     padding: 5% 10%;
 }
